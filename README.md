@@ -5,5 +5,5 @@
 
 
 
-## University
-#### Catholic university of Korea
+## Scientist
+#### The Catholic university of Korea

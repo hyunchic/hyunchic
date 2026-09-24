@@ -6,4 +6,5 @@
 
 
 ## Scientist
-#### The Catholic university of Korea
+#### The Catholic University of Korea
+Dept. Medical and Biological Sciences
